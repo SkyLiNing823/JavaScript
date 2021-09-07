@@ -3,6 +3,7 @@ let num = 100 //number 包含整數小數點
 console.log(myName)
 
 let isTrue = true
+console.log(myName.length)
 
 let bag = undefined //空
 let bag2 = null //空

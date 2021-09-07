@@ -1,0 +1,8 @@
+#setting_board {
+    display: flex;
+    flex-direction: row;
+}
+
+.setting {
+    width: 50px;
+}

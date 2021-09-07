@@ -1,0 +1,1 @@
+const btn = document.evaluate("//div[@aria-label='讚']", document).iterateNext()
